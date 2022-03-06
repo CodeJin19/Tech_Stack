@@ -23,3 +23,8 @@
 ## 읽을 책
 
  - [프로 깃](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261789&orderClick=LAG&Kc=)
+
+## 참조
+
+ - [백앤드 로드맵](https://github.com/woowacourse/back-end-roadmap)
+ - [개발자 로드맵](https://www.mindmeister.com/ko/502625671/_?fullscreen=1)
