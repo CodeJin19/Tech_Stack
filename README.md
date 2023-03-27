@@ -29,3 +29,4 @@
  - [백앤드 로드맵](https://github.com/woowacourse/back-end-roadmap)
  - [개발자 로드맵](https://www.mindmeister.com/ko/502625671/_?fullscreen=1)
  - [로드맵 사이트](https://roadmap.sh/)
+ - [앱 개발 참고](https://brunch.co.kr/@uniher/21)
